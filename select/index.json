@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "花溺れ",
+  "base_artist": "shikisai",
+  "createdAt": "2026-03-31T14:47:22.884045Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花溺れ",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/01_花溺れ_Vivid_BAD_SQUAD.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花溺れ (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/02_花溺れ_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花溺れ",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク",
+      "has_synced": true,
+      "path": "select/03_花溺れ_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "花溺れ",
+      "artist": "Vivid BAD SQUAD (秋奈, 鷲見友美ジェナ, 今井文也, 伊東健人) Feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_花溺れ_Vivid_BAD_SQUAD_(秋奈,_鷲見友美ジェナ,_今井文也,_伊東健人)_Feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花溺れ",
+      "artist": "Vivid BAD SQUAD (秋奈, 鷲見友美ジェナ, 今井文也, 伊東健人)",
+      "has_synced": true,
+      "path": "select/05_花溺れ_Vivid_BAD_SQUAD_(秋奈,_鷲見友美ジェナ,_今井文也,_伊東健人).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花溺れ",
+      "artist": "shikisai",
+      "has_synced": false,
+      "path": "select/pl_01_花溺れ_shikisai.txt"
+    }
+  ]
+}
